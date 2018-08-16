@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Projekt.GameWindow">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQwkBAD5DCACAvEQSmyChRAKATAAISBAABoBliEKkeU=</HashCode>
+      <FileName>GlavnaIgra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.ListaIgraca">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAEEAACAAAACAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>ListaIgraca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.Rezultat">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAwAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rezultat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.Properties.Resources">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAIAAAAACAQAAAABEAAAAQAAAgEQIAAAAAAIBIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

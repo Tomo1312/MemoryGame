@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Igraci>
+  <Igrac>
+    <Ime>kl</Ime>
+    <Rezultat>80</Rezultat>
+  </Igrac>
+  <Igrac>
+    <Ime>Matija</Ime>
+    <Rezultat>105</Rezultat>
+  </Igrac>
+</Igraci>
